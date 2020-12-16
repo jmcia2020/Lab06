@@ -13,3 +13,4 @@ greeting = 'Good morni ng!';
 else {
 greeting = 'Welcome! ' ;}
 document .write( ' <h3>' +greeting + ' </ h3> '); 
+//this is a comment in javascript

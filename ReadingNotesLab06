@@ -1,0 +1,21 @@
+Reading Notes: Lab 6
+Web Pages are created from 3 separate languages that concern themselves with different aspects in the development of the webpage.  
+This is called the separation of concerns.
+
+All three are text files with different extension tags.
+HTML focuses on content (.html)CSS focuses on style (.css)
+JavaScript focuses on the behaviors of the website. (.js)
+
+JavaScript, like CSS. links to the HTML code.  
+The .js file is usually linked at the bottom of the body within the HTML code using the <script> element.
+A script is a series of instructions that a computer can follow one-by-one. 
+
+Each individual instruction or step is known as a statement. Statements should end with a semicolon. 
+Curly braces indicate the start and end of a code block.
+
+JavaScript is case sensitive.  thisIsCamelCasing
+
+JavaScript distinguishes between numbers, strings, and Booleans.
+
+Strings data consists of letters and other characters. 
+Booleans are true or false values.
